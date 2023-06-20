@@ -1,2 +1,2 @@
-<h1> DEVOPS and ANSIBLE  IS VERY INTRESTING, ENJOY IT </h1>
+<h1> Start doing Projects in CI/CD, will get good knowledge</h1>
 
